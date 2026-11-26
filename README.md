@@ -1,0 +1,56 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="John Christian Austria. Junior developer, BSIT at Tarlac State University. Mobile dev, full stack, AI and ML." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BSIT-Tarlac_State_University-e8a0bf?style=flat-square&labelColor=2b2140" alt="BSIT, Tarlac State University" />
+  <img src="https://img.shields.io/badge/Cum_Laude-2026-f4c095?style=flat-square&labelColor=2b2140" alt="Cum Laude, 2026" />
+  <img src="https://img.shields.io/badge/Open_to-junior_dev_roles-7fb7be?style=flat-square&labelColor=2b2140" alt="Open to junior developer roles" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jcaustria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e8a0bf?style=flat-square&logo=linkedin&logoColor=f6e7d7&labelColor=2b2140" alt="LinkedIn" /></a>
+  <a href="mailto:johnaustria4808@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-f4c095?style=flat-square&logo=gmail&logoColor=f6e7d7&labelColor=2b2140" alt="Email" /></a>
+  <a href="https://github.com/JcXplore?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-c9b6d9?style=flat-square&logo=github&logoColor=f6e7d7&labelColor=2b2140" alt="GitHub repositories" /></a>
+</p>
+
+## ☾ About Me
+
+I'm **John Christian Austria**, a junior developer from Tarlac, Philippines, turning ML into apps
+people can use: offline Filipino Sign Language translation, AI furniture recommendations, and
+automatic short-video clipping.
+
+I graduated **Cum Laude in BS Information Technology from Tarlac State University** (2026) and am
+open to junior developer roles as of November 2026.
+
+## ☾ Tech Stack
+
+**Frontend & Mobile**: React Native, React, Vite, Tailwind CSS, HTML, CSS, JavaScript
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" alt="React, Vite, Tailwind CSS, HTML, CSS, JavaScript" />
+
+**Backend**: Node.js, Express, Python, FastAPI, C#/.NET, Java
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,cs,dotnet,java" alt="Node.js, Express, Python, FastAPI, C#, .NET, Java" />
+
+**Data, Cloud & Tools**: Firestore, MongoDB, PostgreSQL, MySQL, AWS S3, Docker, Git
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,aws,docker,git" alt="Firebase, MongoDB, PostgreSQL, MySQL, AWS, Docker, Git" />
+
+## ☾ Featured Projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/JcXplore/SignLanguage-ML-"><img src="assets/card-signbridge.svg" width="400" alt="SignBridge: reads Filipino Sign Language from the camera into text and speech, offline. Expo, MediaPipe, on-device ML." /></a></td>
+    <td><a href="https://github.com/JcXplore/FurnituneMobile"><img src="assets/card-furnitune.svg" width="400" alt="FurniTune: furniture shopping app with an AI recommender using embeddings and FAISS. Firestore, FastAPI." /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/JcXplore/openshort"><img src="assets/card-openshorts.svg" width="400" alt="OpenShorts: cuts long videos into vertical Shorts, TikToks and Reels. MIT, self-hostable. Whisper, FFmpeg, Docker." /></a></td>
+    <td><a href="CHATFOX_REPO_URL"><img src="assets/card-chatfox.svg" width="400" alt="ChatFox: university AI assistant that answers from Tarlac State University's own documents using RAG. MongoDB, OpenAI." /></a></td>
+  </tr>
+</table>
+
+<!-- Owner: JcXplore. Last reviewed 2026-11-26.
+     Review when: you accept a job (remove the "Open to" badge and line), ship or retire a project,
+     publish ChatFox, or start a new job search.
+     Cards and banner are generated SVGs in assets/; edit the text inside them directly. -->
