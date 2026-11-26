@@ -277,6 +277,14 @@ def card(slug, n, name, stack, lines, tags, icon, has_repo):
     return "".join(o)
 
 
+def stack_tile(label, color):
+    """48px tile sized to sit at the end of a skillicons.dev row (same dark tile and corner radius)."""
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="48" height="48" role="img" aria-label="{t(label)}">'
+            f'<rect width="256" height="256" rx="60" fill="#242938"/>'
+            f'<text x="128" y="152" font-family="{MONO}" font-size="78" font-weight="bold" fill="{color}" text-anchor="middle">{t(label)}</text>'
+            '</svg>')
+
+
 # ---------------------------------------------------------------- main
 
 def main(out):
@@ -289,6 +297,7 @@ def main(out):
         "badge-linkedin.svg": badge("in", "LinkedIn"),
         "badge-email.svg": badge("@", "Email"),
         "badge-github.svg": badge("</>", "Repositories"),
+        "icon-n8n.svg": stack_tile("n8n", "#ea4b71"),
     }
     for c in CARDS:
         files[f"card-{c[0]}.svg"] = card(*c)

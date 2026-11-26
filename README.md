@@ -35,7 +35,7 @@ open to junior developer roles as of November 2026.
 
 **Data, Cloud & Tools**: Firestore, MongoDB, PostgreSQL, MySQL, AWS S3, Docker, Git, n8n (workflow automation)
 
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,aws,docker,git" alt="Firebase, MongoDB, PostgreSQL, MySQL, AWS, Docker, Git" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,aws,docker,git" alt="Firebase, MongoDB, PostgreSQL, MySQL, AWS, Docker, Git" /> <img src="assets/icon-n8n.svg" width="48" height="48" alt="n8n" />
 
 ## 🦇 Featured Projects
 
