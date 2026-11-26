@@ -16,8 +16,8 @@
 
 ## 🦇 About Me
 
-I'm **John Christian Austria**, a junior developer from Tarlac, Philippines. I build mobile and
-full-stack apps, and bring in AI and ML where they make the app better.
+I'm **John Christian Austria**, an **AI engineer** from Tarlac, Philippines. I build web and mobile
+applications, and bring in AI and ML where they make the app better.
 
 - 🎓 **BS Information Technology, Cum Laude**, Tarlac State University (2026)
 - 🏛️ **Intern**, PGT Governor's Office (Feb to May 2026)
