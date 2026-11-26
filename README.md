@@ -16,12 +16,12 @@
 
 ## 🦇 About Me
 
-I'm **John Christian Austria**, a junior developer from Tarlac, Philippines, turning ML into apps
-people can use: offline Filipino Sign Language translation, AI furniture recommendations, and
-automatic short-video clipping.
+I'm **John Christian Austria**, a junior developer from Tarlac, Philippines. I build mobile and
+full-stack apps, and bring in AI and ML where they make the app better.
 
-I graduated **Cum Laude in BS Information Technology from Tarlac State University** (2026) and am
-open to junior developer roles as of November 2026.
+- 🎓 **BS Information Technology, Cum Laude**, Tarlac State University (2026)
+- 🏛️ **Intern**, PGT Governor's Office (Feb to May 2026)
+- 🔦 **Open to** junior developer roles and internships
 
 ## 🦇 Tech Stack
 
