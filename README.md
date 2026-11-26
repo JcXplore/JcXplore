@@ -33,7 +33,7 @@ open to junior developer roles as of November 2026.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,cs,dotnet,java" alt="Node.js, Express, Python, FastAPI, C#, .NET, Java" />
 
-**Data, Cloud & Tools**: Firestore, MongoDB, PostgreSQL, MySQL, AWS S3, Docker, Git
+**Data, Cloud & Tools**: Firestore, MongoDB, PostgreSQL, MySQL, AWS S3, Docker, Git, n8n (workflow automation)
 
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,aws,docker,git" alt="Firebase, MongoDB, PostgreSQL, MySQL, AWS, Docker, Git" />
 
