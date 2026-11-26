@@ -231,8 +231,8 @@ CARDS = [
     ("chatfox", 4, "ChatFox", "REACT NATIVE · EXPRESS",
      ["University AI assistant that answers", "from TSU's own documents (RAG)."],
      ["MONGODB", "OPENAI", "RAG"], icon_fox, False),
-    ("n8n", 5, "n8n Approval Flow", "N8N · OPENAI · GEMINI",
-     ["Sorts requests into approve, reject", "or revise; books a meeting + emails."],
+    ("n8n", 5, "n8n Idea Pipeline", "N8N · GEMINI · OPENAI",
+     ["AI organizes creator notes into ideas;", "admin approves, rejects or revises."],
      ["SHEETS", "CALENDAR", "GMAIL"], icon_flow, False),
 ]
 
