@@ -48,6 +48,9 @@ open to junior developer roles as of November 2026.
     <td><a href="https://github.com/JcXplore/openshort"><img src="assets/card-openshorts.svg" width="400" alt="OpenShorts: cuts long videos into vertical Shorts, TikToks and Reels. MIT, self-hostable. Whisper, FFmpeg, Docker." /></a></td>
     <td><img src="assets/card-chatfox.svg" width="400" alt="ChatFox: university AI assistant that answers from Tarlac State University's own documents using RAG. MongoDB, OpenAI. Repository coming soon." /></td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/card-n8n.svg" width="400" alt="n8n Approval Flow: sorts requests from Google Sheets into approve, reject or revise; on approval it uses OpenAI to draft a reply, books a Google Calendar slot and sends a Gmail. A second flow turns raw notes into structured data with Gemini. Repository coming soon." /></td>
+  </tr>
 </table>
 
 <!-- Owner: JcXplore. Last reviewed 2026-11-26.

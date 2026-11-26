@@ -201,6 +201,23 @@ def icon_fox(cx, cy):
             + "".join(f'<circle cx="{cx + d}" cy="{cy + 4}" r="5" fill="{NIGHT}"/>' for d in (-16, 0, 16)))
 
 
+def icon_flow(cx, cy):
+    """Workflow nodes: trigger -> switch -> three branches."""
+    c = SIGNAL
+    o = [f'<g stroke="{c}" stroke-width="3" fill="none">',
+         f'<path d="M{cx - 44} {cy} H{cx - 8}"/>',
+         f'<path d="M{cx + 8} {cy} C{cx + 24} {cy} {cx + 22} {cy - 26} {cx + 38} {cy - 26}"/>',
+         f'<path d="M{cx + 8} {cy} H{cx + 38}"/>',
+         f'<path d="M{cx + 8} {cy} C{cx + 24} {cy} {cx + 22} {cy + 26} {cx + 38} {cy + 26}"/>',
+         '</g>',
+         f'<rect x="{cx - 62}" y="{cy - 12}" width="24" height="24" rx="6" fill="{c}"/>',
+         f'<rect x="{cx - 12}" y="{cy - 14}" width="28" height="28" rx="6" fill="{c}"/>',
+         f'<path d="M{cx - 4} {cy - 6} h12 M{cx - 4} {cy} h12 M{cx - 4} {cy + 6} h12" stroke="{NIGHT}" stroke-width="2.5"/>']
+    for dy in (-26, 0, 26):
+        o.append(f'<rect x="{cx + 38}" y="{cy + dy - 9}" width="18" height="18" rx="5" fill="{c}"/>')
+    return "".join(o)
+
+
 CARDS = [
     ("signbridge", 1, "SignBridge", "REACT NATIVE · MEDIAPIPE",
      ["Reads Filipino Sign Language from the", "camera into text and speech, offline."],
@@ -214,6 +231,9 @@ CARDS = [
     ("chatfox", 4, "ChatFox", "REACT NATIVE · EXPRESS",
      ["University AI assistant that answers", "from TSU's own documents (RAG)."],
      ["MONGODB", "OPENAI", "RAG"], icon_fox, False),
+    ("n8n", 5, "n8n Approval Flow", "N8N · OPENAI · GEMINI",
+     ["Sorts requests into approve, reject", "or revise; books a meeting + emails."],
+     ["SHEETS", "CALENDAR", "GMAIL"], icon_flow, False),
 ]
 
 
