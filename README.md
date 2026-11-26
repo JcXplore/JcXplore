@@ -49,7 +49,7 @@ open to junior developer roles as of November 2026.
     <td><img src="assets/card-chatfox.svg" width="400" alt="ChatFox: university AI assistant that answers from Tarlac State University's own documents using RAG. MongoDB, OpenAI. Repository coming soon." /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="assets/card-n8n.svg" width="400" alt="n8n Idea Pipeline: Gemini organizes creators' raw notes into structured ideas, saves them to Google Sheets and emails the admin, who approves, rejects or asks for revisions. Approved ideas get an OpenAI-drafted reply, a Google Calendar booking and a Gmail confirmation. Repository coming soon." /></td>
+    <td colspan="2" align="center"><img src="assets/card-n8n.svg" width="400" alt="AI-Driven Task &amp; Inbox Organizer, an n8n workflow: Gemini organizes creators' raw notes into structured ideas, saves them to Google Sheets and emails the admin, who approves, rejects or asks for revisions. Approved ideas get an OpenAI-drafted reply, a Google Calendar booking and a Gmail confirmation. Repository coming soon." /></td>
   </tr>
 </table>
 

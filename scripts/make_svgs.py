@@ -231,7 +231,7 @@ CARDS = [
     ("chatfox", 4, "ChatFox", "REACT NATIVE · EXPRESS",
      ["University AI assistant that answers", "from TSU's own documents (RAG)."],
      ["MONGODB", "OPENAI", "RAG"], icon_fox, False),
-    ("n8n", 5, "n8n Idea Pipeline", "N8N · GEMINI · OPENAI",
+    ("n8n", 5, "AI-Driven Task & Inbox Organizer", "N8N · GEMINI · OPENAI",
      ["AI organizes creator notes into ideas;", "admin approves, rejects or revises."],
      ["SHEETS", "CALENDAR", "GMAIL"], icon_flow, False),
 ]
@@ -259,7 +259,7 @@ def card(slug, n, name, stack, lines, tags, icon, has_repo):
          '</g>',
          f'<rect x="2" y="2" width="396" height="296" rx="6" fill="none" stroke="{SLATE}" stroke-width="2"/>',
          pill(14, 14, 110, 18, f"CASE FILE / {n:02d}", fill=NIGHT, size=10),
-         f'<text x="20" y="166" font-family="{HEAVY}" font-weight="bold" font-size="24" letter-spacing="1" fill="{FOG}">{t(name)}</text>',
+         f'<text x="20" y="166" font-family="{HEAVY}" font-weight="bold" font-size="{min(24, int(360 / (len(name) * 0.62)))}" letter-spacing="1" fill="{FOG}">{t(name)}</text>',
          f'<text x="20" y="186" font-family="{MONO}" font-size="11" letter-spacing="1.5" fill="{SIGNAL}">{t(stack)}</text>',
          ]
     for i, line in enumerate(lines):
