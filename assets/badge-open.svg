@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 24" width="206" height="24" role="img" aria-label="Open to: junior dev roles">
+<clipPath id="r"><rect width="206" height="24" rx="6"/></clipPath>
+<g clip-path="url(#r)"><rect width="70" height="24" fill="#241b38"/><rect x="70" width="135" height="24" fill="#7fb7be"/></g>
+<text x="35" y="16" font-family="'Courier New', Courier, monospace" font-size="12" fill="#f6e7d7" text-anchor="middle">Open to</text>
+<text x="138" y="16" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#17112a" text-anchor="middle">junior dev roles</text>
+</svg>

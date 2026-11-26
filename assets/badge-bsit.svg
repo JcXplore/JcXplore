@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 24" width="234" height="24" role="img" aria-label="BSIT: Tarlac State University">
+<clipPath id="r"><rect width="234" height="24" rx="6"/></clipPath>
+<g clip-path="url(#r)"><rect width="49" height="24" fill="#241b38"/><rect x="49" width="186" height="24" fill="#e8a0bf"/></g>
+<text x="24" y="16" font-family="'Courier New', Courier, monospace" font-size="12" fill="#f6e7d7" text-anchor="middle">BSIT</text>
+<text x="142" y="16" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#17112a" text-anchor="middle">Tarlac State University</text>
+</svg>

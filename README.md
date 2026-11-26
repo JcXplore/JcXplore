@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSIT-Tarlac_State_University-e8a0bf?style=flat-square&labelColor=2b2140" alt="BSIT, Tarlac State University" />
-  <img src="https://img.shields.io/badge/Cum_Laude-2026-f4c095?style=flat-square&labelColor=2b2140" alt="Cum Laude, 2026" />
-  <img src="https://img.shields.io/badge/Open_to-junior_dev_roles-7fb7be?style=flat-square&labelColor=2b2140" alt="Open to junior developer roles" />
+  <img src="assets/badge-bsit.svg" alt="BSIT, Tarlac State University" />
+  <img src="assets/badge-cumlaude.svg" alt="Cum Laude, 2026" />
+  <img src="assets/badge-open.svg" alt="Open to junior developer roles" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jcaustria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e8a0bf?style=flat-square&logo=linkedin&logoColor=f6e7d7&labelColor=2b2140" alt="LinkedIn" /></a>
-  <a href="mailto:johnaustria4808@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-f4c095?style=flat-square&logo=gmail&logoColor=f6e7d7&labelColor=2b2140" alt="Email" /></a>
-  <a href="https://github.com/JcXplore?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-c9b6d9?style=flat-square&logo=github&logoColor=f6e7d7&labelColor=2b2140" alt="GitHub repositories" /></a>
+  <a href="https://www.linkedin.com/in/jcaustria/"><img src="assets/badge-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:johnaustria4808@gmail.com"><img src="assets/badge-email.svg" alt="Email" /></a>
+  <a href="https://github.com/JcXplore?tab=repositories"><img src="assets/badge-github.svg" alt="GitHub repositories" /></a>
 </p>
 
 ## ☾ About Me
