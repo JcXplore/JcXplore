@@ -46,11 +46,11 @@ open to junior developer roles as of November 2026.
   </tr>
   <tr>
     <td><a href="https://github.com/JcXplore/openshort"><img src="assets/card-openshorts.svg" width="400" alt="OpenShorts: cuts long videos into vertical Shorts, TikToks and Reels. MIT, self-hostable. Whisper, FFmpeg, Docker." /></a></td>
-    <td><a href="CHATFOX_REPO_URL"><img src="assets/card-chatfox.svg" width="400" alt="ChatFox: university AI assistant that answers from Tarlac State University's own documents using RAG. MongoDB, OpenAI." /></a></td>
+    <td><img src="assets/card-chatfox.svg" width="400" alt="ChatFox: university AI assistant that answers from Tarlac State University's own documents using RAG. MongoDB, OpenAI. Repository coming soon." /></td>
   </tr>
 </table>
 
 <!-- Owner: JcXplore. Last reviewed 2026-11-26.
      Review when: you accept a job (remove the "Open to" badge and line), ship or retire a project,
-     publish ChatFox, or start a new job search.
+     publish ChatFox (re-link its card and restore "View repository" in card-chatfox.svg), or start a new job search.
      Cards and banner are generated SVGs in assets/; edit the text inside them directly. -->
