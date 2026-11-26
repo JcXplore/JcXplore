@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 24" width="234" height="24" role="img" aria-label="BSIT: Tarlac State University">
-<clipPath id="r"><rect width="234" height="24" rx="6"/></clipPath>
-<g clip-path="url(#r)"><rect width="49" height="24" fill="#241b38"/><rect x="49" width="186" height="24" fill="#e8a0bf"/></g>
-<text x="24" y="16" font-family="'Courier New', Courier, monospace" font-size="12" fill="#f6e7d7" text-anchor="middle">BSIT</text>
-<text x="142" y="16" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#17112a" text-anchor="middle">Tarlac State University</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217 24" width="217" height="24" role="img" aria-label="BSIT: Tarlac State University"><rect x="0.75" y="0.75" width="215.5" height="22.5" rx="2" fill="#0b0d12" stroke="#f5c518" stroke-width="1.5"/><rect x="0.75" y="0.75" width="46" height="22.5" rx="2" fill="#f5c518"/><text x="23.8" y="16" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#0b0d12" text-anchor="middle">BSIT</text><text x="131.5" y="16" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#c7ccd6" text-anchor="middle">Tarlac State University</text></svg>

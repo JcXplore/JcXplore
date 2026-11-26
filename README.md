@@ -14,7 +14,7 @@
   <a href="https://github.com/JcXplore?tab=repositories"><img src="assets/badge-github.svg" alt="GitHub repositories" /></a>
 </p>
 
-## ☾ About Me
+## 🦇 About Me
 
 I'm **John Christian Austria**, a junior developer from Tarlac, Philippines, turning ML into apps
 people can use: offline Filipino Sign Language translation, AI furniture recommendations, and
@@ -23,7 +23,7 @@ automatic short-video clipping.
 I graduated **Cum Laude in BS Information Technology from Tarlac State University** (2026) and am
 open to junior developer roles as of November 2026.
 
-## ☾ Tech Stack
+## 🦇 Tech Stack
 
 **Frontend & Mobile**: React Native, React, Vite, Tailwind CSS, HTML, CSS, JavaScript
 
@@ -37,7 +37,7 @@ open to junior developer roles as of November 2026.
 
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,aws,docker,git" alt="Firebase, MongoDB, PostgreSQL, MySQL, AWS, Docker, Git" />
 
-## ☾ Featured Projects
+## 🦇 Featured Projects
 
 <table>
   <tr>
@@ -53,4 +53,4 @@ open to junior developer roles as of November 2026.
 <!-- Owner: JcXplore. Last reviewed 2026-11-26.
      Review when: you accept a job (remove the "Open to" badge and line), ship or retire a project,
      publish ChatFox (re-link its card and restore "View repository" in card-chatfox.svg), or start a new job search.
-     Cards and banner are generated SVGs in assets/; edit the text inside them directly. -->
+     Cards, badges and banner are generated SVGs in assets/ (Gotham-noir theme). -->

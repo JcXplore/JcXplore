@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 24" width="148" height="24" role="img" aria-label="&lt;/&gt;: Repositories">
-<clipPath id="r"><rect width="148" height="24" rx="6"/></clipPath>
-<g clip-path="url(#r)"><rect width="42" height="24" fill="#241b38"/><rect x="42" width="106" height="24" fill="#c9b6d9"/></g>
-<text x="21" y="16" font-family="'Courier New', Courier, monospace" font-size="12" fill="#f6e7d7" text-anchor="middle">&lt;/&gt;</text>
-<text x="95" y="16" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#17112a" text-anchor="middle">Repositories</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138 24" width="138" height="24" role="img" aria-label="&lt;/&gt;: Repositories"><rect x="0.75" y="0.75" width="136.5" height="22.5" rx="2" fill="#0b0d12" stroke="#f5c518" stroke-width="1.5"/><rect x="0.75" y="0.75" width="39" height="22.5" rx="2" fill="#f5c518"/><text x="20.2" y="16" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#0b0d12" text-anchor="middle">&lt;/&gt;</text><text x="88.5" y="16" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#c7ccd6" text-anchor="middle">Repositories</text></svg>
